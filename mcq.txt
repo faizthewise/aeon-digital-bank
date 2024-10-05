@@ -1,0 +1,13 @@
+1. b. Cell-caption
+2. c. It selects the 2nd, 4th, 6th, 8th, etc. (even) <p> tags starting from 2.
+3. c. Order: #div1, #div3, #div2, and #div4
+4. b.
+5. c.
+6. d. Float
+7. <th> - Defines a cell in a table.
+8. c. Both A and B.
+9. a. <NotesContext.Provider value={this.state.notes}> //code
+</NotesContext.Provider>
+10. a. componentDidUpdate()
+11. d. align-items
+12. b. Span
